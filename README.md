@@ -1,2 +1,1 @@
-first readme
-And from here we will write codes for smart contracts
+'This Repo is for Cairo Programs' 
